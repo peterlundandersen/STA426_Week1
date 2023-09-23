@@ -1,10 +1,14 @@
-#Description
+## Exercise 1
+We here have an example of a **README.md** file. This allows us to easily format text and more. 
 
 
-Add image!
+
+### My github account
+We have here added a link to my [github profile](https://github.com/peterlundandersen).
 
 
-Adding new stuff
+We can also add a picture of the mascot for Github, called Octocat. ![octocat][octocatlink]
 
 
-testing in terminal
+
+[octocatlink]: https://info.orcid.org/wp-content/uploads/2019/11/github-logo.jpg
